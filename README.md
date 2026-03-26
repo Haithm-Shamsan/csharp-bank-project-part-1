@@ -1,31 +1,17 @@
 ﻿# Bank Project part 1
 
-## Overview
-This repository was organized and uploaded from a local project workspace.
+## About This Project
+I built this project as part of my learning and practice journey. It focuses on account-style operations and transaction flows while improving how I organize code and structure features.
 
-## Repository Stats
-- GitHub repo: Haithm-Shamsan/csharp-bank-project-part-1
-- Scan date: 2026-03-26
-- Total tracked files scanned: 9
-- Text files fully read: 9
-- Binary or non-text files: 0
-- Approximate text line count: 1693
+## What I Implemented
+- I implemented account-style operations and transaction flows.
+- I organized the project to keep logic clearer and easier to maintain.
 
-## File Types
-- .cpp: 2 files
-- .md: 1 files
-- .vcxproj: 1 files
-- .filters: 1 files
-- [no_ext]: 1 files
-- .gitattributes: 1 files
-- .sln: 1 files
-- .gitignore: 1 files
+## Tech Stack
+- C# / .NET
 
-## Getting Started
-- Open solution in Visual Studio and run from IDE
-- Or build with .NET CLI: dotnet build
-
-## Project File Sample
+## Project Structure Highlights
+- README.md
 - .gitattributes
 - .gitignore
 - Bank Project part 1.sln
@@ -33,9 +19,18 @@ This repository was organized and uploaded from a local project workspace.
 - Bank Project part 1/Bank Project part 1.cpp
 - Bank Project part 1/Bank Project part 1.vcxproj
 - Bank Project part 1/Bank Project part 1.vcxproj.filters
-- README.md
-- Test ATMSystem.cpp
 
-## Notes
-- This README was auto-generated after scanning repository files.
-- You can customize this file with project purpose, screenshots, and usage details.
+## How To Run
+1. Open the `.sln` file in Visual Studio.
+2. Restore/build the solution.
+3. Run the startup project from Visual Studio.
+
+## What I Learned
+- I practiced building features end-to-end, from structure to execution.
+- I improved code organization and readability choices.
+- I strengthened my debugging and iteration workflow.
+
+## Next Improvements
+- Add deeper documentation for each module and workflow.
+- Add tests for the most critical flows.
+- Refine UX/UI and error handling where needed.
